@@ -53,14 +53,5 @@ int main()
         }
 
 
-
-
-
-    }
-    else{
-        printf("Hatali Musteri No veya Sifre");
-    }
-
-
     return 0;
 }
